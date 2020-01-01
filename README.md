@@ -21,7 +21,7 @@ APIs publish data for public use. As third-party software developers, we can acc
 
   > Why recreate data when we don't have to? Think about past projects or ideas that would be easier if you could pull in data already gathered elsewhere.
 
-  > APIs can provide us with data that would we would otherwise not be able to create ourselves.
+  > APIs can provide us with data that we would otherwise not be able to create ourselves.
 
 </details>
 
