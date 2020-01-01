@@ -12,7 +12,7 @@ Yesterday we built apps that consumed 3rd party APIs (Unsplash, Open Weather, Qu
 
 > Basically, an API is a service that provides raw data for public use.
 
-API stands for "Application Program Interface" and technically applies to all of software design. The DOM and jQuery are actually examples of APIs! Since the explosion of information technology, however, the term now commonly refers to web URLs that can be accessed for raw data.
+API stands for "Application Programming Interface" and technically applies to all of software design. The DOM and jQuery are actually examples of APIs! Since the explosion of information technology, however, the term now commonly refers to web URLs that can be accessed for raw data.
 
 APIs publish data for public use. As third-party software developers, we can access an organization's API and use their data within our own applications.
 
